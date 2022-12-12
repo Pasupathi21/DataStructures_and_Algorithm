@@ -1,3 +1,3 @@
 // BEGINNER LEVEL
 
-require('./Beginner_level/fibnocci')
+require('./Beginner_level/fibonacci')
