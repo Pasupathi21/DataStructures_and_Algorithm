@@ -1,3 +1,5 @@
+// check if two word is containing sames letters or not
+
 function anagram(actual, input){
     let actulaString = actual?.trim().toLowerCase()?.split('')
     let inputString = input.toLowerCase()?.split('')
