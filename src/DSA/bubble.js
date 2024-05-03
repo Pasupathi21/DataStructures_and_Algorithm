@@ -40,3 +40,5 @@ function bubbleSortDoWhile(array) {
 
 const unsortedArr = [10, 20, 30, 40, 5, -1000, 5, 15, 25, 35, 45, -10]
 console.log(bubbleSortDoWhile(unsortedArr))
+
+console.log(console.log('Hello'.charCodeAt(0)))
