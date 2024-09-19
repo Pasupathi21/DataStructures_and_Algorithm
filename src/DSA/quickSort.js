@@ -12,7 +12,7 @@ function quickSort(array){
     }
     console.log(leftArray, array[pivot], rightArray)
     console.log("=================================")
-    return[...quickSort(rightArray), array[pivot], ...quickSort(leftArray)]
+    return[ ...quickSort(leftArray), array[pivot],...quickSort(rightArray)]
 
 
 }
