@@ -21,4 +21,3 @@ console.log(quickSort([10, 20, 30, 40, 5, -1000, 5, 15, 25, 35, 45, -10, -5]))
 // console.log(quickSort([20, 10]))
 // console.log(quickSort([10]))
 // console.log(quickSort([null, undefined, true, false]))
-
